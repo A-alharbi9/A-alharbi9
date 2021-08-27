@@ -1,12 +1,14 @@
-<strong align="center">Welcome to my profile</strong>
+<h1 align="center">Welcome to my profile</h1>
 
-Hi, I’m @A-alharbi9
+Hello, I’m @A-alharbi9. An aspiring Saudi developer. 
 
-## My interests
--Web development
+<h2 align="center"> My interests</h2>
+-Full stack web development </br>
+-UX design
 
-### Currentlly learning
--React 
--Node.
+<h3 align="center"> Currentlly learning </h3>
+<hr></hr>
+<li>React</li> </br>
+<li>Node</li>
 
 
