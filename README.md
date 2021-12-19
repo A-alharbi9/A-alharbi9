@@ -9,6 +9,8 @@ Hello, I’m @A-alharbi9. An aspiring Saudi developer.
 <h3 align="center"> Currentlly learning </h3>
 <hr></hr>
 <li>React</li> </br>
+<li>NextJS</li> </br>
+<li>PHP</li> </br>
 <li>Node</li>
 
 
